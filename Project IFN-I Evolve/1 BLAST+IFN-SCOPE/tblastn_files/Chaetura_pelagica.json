@@ -1,0 +1,29 @@
+{
+  "species": "Chaetura pelagica",
+  "full_name": "Chaetura pelagica_烟囱刺尾雨燕",
+  "chr_node": [
+    {
+      "length": 4660414,
+      "chromosome": "NW_009953507.1",
+      "chr": "",
+      "children": [
+        {
+          "type": "seq",
+          "name": "Nothoprocta_perdicaria_LOC112956287",
+          "identity": "36%",
+          "positive": "50%",
+          "gap": "17%",
+          "number": 1,
+          "direction": "+",
+          "seq_length": 121,
+          "seq_start": 2183559,
+          "seq_end": 2183894,
+          "query_seq_content": "MGDFIYPNISWKHNTAGHXQSWRFLQSVDDDNYLTQVVEEPTRR------VFTESSPLESQNLDKRRSPERGRLALDXENKIDWIISMLQR-----FLLPIYITMTLYIKISHSVCLFQGS",
+          "sbjct_seq_conten": "MGYFNHPDICWKNNSAKRKQSRRFLE-YKDDNFLFQVIEEPTRRGAVLDLVFTNEEGL------VRDVKLKGSLGCSDQEMVEFKILIGQQGGLTAILLP--LTSEGQISASSGICSAQES",
+          "flag_seq_content": "MG F +P+I WK+N+A   QS RFL+   DDN+L QV+EEPTRR      VFT    L       R    +G L    +  +++ I + Q+      LLP  +T    I  S  +C  Q S",
+          "show_name": "LOC112956287"
+        }
+      ]
+    }
+  ]
+}

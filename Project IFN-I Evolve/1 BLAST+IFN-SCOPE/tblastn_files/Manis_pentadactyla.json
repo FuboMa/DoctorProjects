@@ -1,0 +1,29 @@
+{
+  "species": "Manis pentadactyla",
+  "full_name": "Manis pentadactyla_穿山甲",
+  "chr_node": [
+    {
+      "length": 5467004,
+      "chromosome": "NW_023454292.1",
+      "chr": "",
+      "children": [
+        {
+          "type": "seq",
+          "name": "Sus_scrofa_IFN-OMEGA-2",
+          "identity": "42%",
+          "positive": "54%",
+          "gap": "17%",
+          "number": 1,
+          "direction": "-",
+          "seq_length": 127,
+          "seq_start": 633374,
+          "seq_end": 633727,
+          "query_seq_content": "VFHEMLQQTFLLFHIERSSAAWDSTLLDKLCSGLHQQLEDLDPCLVQVMGEQASSL-----GMAVKRYFERIHLFLKEKKYSDCVWEIVRVEIMKPLSSLNS--------FARKVKNYGCRHGVSLK",
+          "sbjct_seq_conten": "VLYQILQQIFSFSHTERSSAA*NTSLLHRLCTGFHQQLENLVTCLVQAMGEVKSAFETEGPAWAVKRYFQGSTST*KTKNT---------VTVPRKLSEWKS*DPSLHPETCKKVRNWG*RHRVSLK",
+          "flag_seq_content": "V +++LQQ F   H ERSSAA +++LL +LC+G HQQLE+L  CLVQ MGE  S+        AVKRYF+      K K           V + + LS   S          +KV+N+G RH VSLK",
+          "show_name": "IFN-OMEGA-2"
+        }
+      ]
+    }
+  ]
+}

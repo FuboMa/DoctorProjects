@@ -1,0 +1,29 @@
+{
+  "species": "Acanthisitta chloris",
+  "full_name": "Acanthisitta chloris_刺鹩",
+  "chr_node": [
+    {
+      "length": 2416,
+      "chromosome": "NW_008679819.1",
+      "chr": "",
+      "children": [
+        {
+          "type": "seq",
+          "name": "Neopelma_chrysocephalum_LOC113980655",
+          "identity": "41%",
+          "positive": "50%",
+          "gap": "8%",
+          "number": 1,
+          "direction": "+",
+          "seq_length": 129,
+          "seq_start": 9,
+          "seq_end": 377,
+          "query_seq_content": "LLNQLQHHIHRLEQCRPDNARLFKGPRNLVFTMKRYFRGIHLFLHAHNHSACAWEHIRLEAITCFQRVDTLLRRMKR----QGAPDLTKPTDSQRPSPVSASAHGWRDGSSSPGWDRSAPLTPPPATML",
+          "sbjct_seq_conten": "LLNKLQLHIHHLQQCVHGNAALSNAPRKTLLTVDKFFRDIHNFLRAHNHSACAWDRVRLEAHASLHHLHNLTRTMRR*PQHPRAPTQHPPILHLRPTLL------WPPDDPRPAKHPRPPATAPLATQL",
+          "flag_seq_content": "LLN+LQ HIH L+QC   NA L   PR  + T+ ++FR IH FL AHNHSACAW+ +RLEA      +  L R M+R      AP    P    RP+ +      W      P      P T P AT L",
+          "show_name": "LOC113980655"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "species": "Homo sapiens",
+  "full_name": "Homo sapiens_人",
+  "chr_node": [
+    {
+      "length": 3,
+      "chromosome": "NC_000009.12",
+      "chr": "9",
+      "children": [
+        {
+          "type": "seq",
+          "name": "Dasypus_novemcinctus_LOC101420625",
+          "identity": "33%",
+          "positive": "52%",
+          "gap": "7%",
+          "number": 1,
+          "direction": "+",
+          "seq_length": 126,
+          "seq_start": 21336613,
+          "seq_end": 21336966,
+          "query_seq_content": "FPREMVDGSQVQKIQAKFVLHEMFQQIFNIYHTEGSSA-AWNMTLLDQLLSTLHEQLEDLEACLLQEMGEEETLQGMEGPVLAMRRYFQGIRLYLQEKKYSDCAWEVVRMELRRCLLFITQLERNI",
+          "sbjct_seq_conten": "FPR---DGSKIQKA*TTTVLHKVLQQIVTLFNTRGWLE*NWPGEIIH*IFISIGKSWSP--AC*MS*-GWKGSLRP*QLPN-AVKSYFQGISLYLEKKEESLCTWEVGARN-HEILLFFIKLASKI",
+          "flag_seq_content": "FPR   DGS++QK     VLH++ QQI  +++T G     W   ++  +  ++ +      AC +   G + +L+  + P  A++ YFQGI LYL++K+ S C WEV        LLF  +L   I",
+          "show_name": "LOC101420625"
+        },
+        {
+          "type": "seq",
+          "name": "Dromiciops_gliroides_LOC122735109",
+          "identity": "34%",
+          "positive": "51%",
+          "gap": "10%",
+          "number": 1,
+          "direction": "+",
+          "seq_length": 130,
+          "seq_start": 21336613,
+          "seq_end": 21336972,
+          "query_seq_content": "FPKEAIEGSQLQRKNAIVTVHEMLQQTLTLFCLNTPPAA---WNQTQLTLLLLRVDQQMEHLERCLGQNVGWQQPSLRSENIQLALKSYFQGISQYLQAKRYSLCAWEIVRIEIRRLFLFMKKLIRKLRN",
+          "sbjct_seq_conten": "FPRD---GSKIQKA*TTTVLHKVLQQIVTLF--NTRGWLE*NWPGEIIH*IFISIGKSWS--PAC*-MS*GWKG-SLRP*QLPNAVKSYFQGISLYLEKKEESLCTWE-VGARNHEILLFFIKLASKINS",
+          "flag_seq_content": "FP++   GS++Q+      +H++LQQ +TLF  NT       W    +  + + + +       C   + GW+  SLR   +  A+KSYFQGIS YL+ K  SLC WE V      + LF  KL  K+ +",
+          "show_name": "LOC122735109"
+        }
+      ]
+    }
+  ]
+}
